@@ -1,2 +1,2 @@
 # gitskills
-Creating
+Creating new AND
